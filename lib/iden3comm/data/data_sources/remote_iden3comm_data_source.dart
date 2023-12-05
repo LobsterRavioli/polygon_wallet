@@ -46,6 +46,8 @@ class RemoteIden3commDataSource {
             'Auth Error: code: ${response.statusCode} msg: ${response.body}');
         _stacktraceManager.addError(
             'Auth Error: $url response with\ncode: ${response.statusCode}\nmsg: ${response.body}');
+
+        print('Auth Error: code: ${response.statusCode} msg: ${response.body}');
         throw NetworkException(response);
       } else {
         return response;
