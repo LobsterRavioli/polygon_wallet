@@ -5,7 +5,7 @@
 # Polygon ID Flutter Wallet
 
 - Forked from: https://github.com/0xPolygonID/polygonid-flutter-sdk
-- Project builded from polygon id flutter sdk example: https://github.com/0xPolygonID/polygonid-flutter-sdk/tree/develop/example
+- Project builded on top of polygon id flutter sdk example: https://github.com/0xPolygonID/polygonid-flutter-sdk/tree/develop/example
 
 ## Prerequisites
 Install Flutter SDK https://docs.flutter.dev/get-started/install
