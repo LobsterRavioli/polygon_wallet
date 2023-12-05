@@ -166,4 +166,4 @@ If you encounter any issues with this SDK, please file an [issue][tracker]. Cont
 - [Polygon ID SDK FAQ](https://github.com/0xPolygonID/polygonid-flutter-sdk/blob/develop/FAQ.md)
 - [Polygon ID SDK Authentication guideline](https://github.com/0xPolygonID/polygonid-flutter-sdk/blob/develop/AUTH.md)
 - [Polygon ID SDK Fetch and Save credentials guideline](https://github.com/0xPolygonID/polygonid-flutter-sdk/blob/develop/FETCH_CRED.md)
-- [Polygon ID SDK Proof guideline](https://github.com/0xPolygonID/polygonid-flutter-sdk/blob/develop/PROOF.md)
+- [Polygon ID SDK Proof guideline](https://github.com/0xPolygonID/polygonid-flutter-sdk/blob/develop/PROOF.md)# polygon_wallet
