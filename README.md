@@ -4,8 +4,8 @@
  
 # Polygon ID Flutter Wallet
 
-[![license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://github.com/iden3/polygonid-flutter-sdk/blob/master/LICENSE-APACHE)
-[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iden3/polygonid-flutter-sdk/blob/master/LICENSE-MIT)
+- Forked from: https://github.com/0xPolygonID/polygonid-flutter-sdk
+- Project builded from polygon id flutter sdk example: https://github.com/0xPolygonID/polygonid-flutter-sdk/tree/develop/example
 
 ## Prerequisites
 Install Flutter SDK https://docs.flutter.dev/get-started/install
