@@ -21,7 +21,7 @@ cd example
 
 4. Resolve Project dependencies for example project, run this command:
 ```bash
-`flutter pub get`
+flutter pub get
 ```
 
 5. Run `build_runner` to generate `.g.dart` files:
