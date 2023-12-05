@@ -10,7 +10,7 @@
 ## Prerequisites
 Install Flutter SDK https://docs.flutter.dev/get-started/install
 
-## Installation
+## Project initial setup
 1.  Clone this repo.
 ```bash
 git clone https://github.com/LobsterRavioli/polygon_wallet.git
