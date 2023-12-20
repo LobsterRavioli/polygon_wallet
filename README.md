@@ -26,7 +26,12 @@ cd example
 flutter pub get
 ```
 
-5. Run `build_runner` to generate `.g.dart` files:
+4. Run this command:
+```bash
+make config
+```
+
+6. Run `build_runner` to generate `.g.dart` files:
 ```bash
 dart run build_runner build --delete-conflicting-outputs
 ```
